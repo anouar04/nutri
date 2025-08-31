@@ -1,0 +1,7 @@
+{
+  "name": "AI Nutritionist & Coach",
+  "description": "An AI-powered nutrition app that instantly calculates calories, vitamins, and other nutritional information from a photo of a meal. It also includes a personalized coaching feature for tailored meal and workout plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
